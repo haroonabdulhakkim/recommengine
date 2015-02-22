@@ -1,0 +1,72 @@
+[
+	{
+		"id": "1",
+		"name": "Jabong",
+		"thumb": {
+			"url": "//cdn01.coupondunia.in/sitespecific/media/generated/merchantlogos/logo_2741ba5_395.jpg?v=1413531813"
+		}
+	},
+	{
+		"id": "2",
+		"name": "paytm",
+		"thumb": {
+			"url": "//cdn01.coupondunia.in/sitespecific/media/generated/merchantlogos/logo_a5af6bd_351.jpg?v=1418892002"
+		}
+	},
+	{
+		"id": "3",
+		"name": "FabFurnish",
+		"thumb": {
+			"url": "//cdn01.coupondunia.in/sitespecific/media/generated/merchantlogos/logo_2dcc6fe_456.jpg?v=1416212070"
+		}
+	},
+	{
+		"id": "4",
+		"name": "Flipkart",
+		"thumb": {
+			"url": "//cdn01.coupondunia.in/sitespecific/media/generated/merchantlogos/logo_5972793_1.jpg?v=1416212070"
+		}
+	},
+	{
+		"id": "5",
+		"name": "Mobikwik",
+		"thumb": {
+			"url": "//cdn01.coupondunia.in/sitespecific/media/generated/merchantlogos/logo_39ad35c_365.jpg?v=1416897202"
+		}
+	},
+	{
+		"id": "6",
+		"name": "Myntra",
+		"thumb": {
+			"url": "//cdn01.coupondunia.in/sitespecific/media/generated/merchantlogos/logo_63d3a1a_17.jpg?v=1413531811"
+		}
+	},
+	{
+		"id": "7",
+		"name": "Ebay",
+		"thumb": {
+			"url": "//cdn01.coupondunia.in/sitespecific/media/generated/merchantlogos/logo_5e29580_97.jpg?v=1413531812"
+		}
+	},
+	{
+		"id": "8",
+		"name": "Amazon",
+		"thumb": {
+			"url": "//cdn01.coupondunia.in/sitespecific/media/generated/merchantlogos/logo_2d0d480_289.jpg?v=1413531812"
+		}
+	},
+	{
+		"id": "9",
+		"name": "US Pizza",
+		"thumb": {
+			"url": "//cdn01.coupondunia.in/sitespecific/media/generated/offlinegeneratedimages/logo_cc5d401_297.jpg?v=1413531820"
+		}
+	},
+	{
+		"id": "10",
+		"name": "Cookie Man",
+		"thumb": {
+			"url": "//cdn01.coupondunia.in/sitespecific/media/generated/offlinegeneratedimages/logo_e984c7c_1710.jpg?v=1416375604"
+		}
+	}
+]
